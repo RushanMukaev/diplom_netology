@@ -12,7 +12,7 @@
 ## Установка и настройка
 1. ### Клонируйте репозиторий:
 
-        git clone https://github.com/donecvolsk/cinema_doplom<
+        git clone git@github.com:RushanMukaev/diplom_netology.git
 
 2. ### Установите зависимости для Laravel:<br>
         cd backend
